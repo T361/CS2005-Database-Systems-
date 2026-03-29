@@ -21,11 +21,15 @@ This course explores the rigorous theory and practical application of data stora
 
 ## 📂 Repository Structure
 
-The repository is organized into weekly labs and architectural design assignments:
-
-* `Labs/`: Weekly SQL scripts focusing on DDL, DML, DCL, and complex data querying.
-* `Assignments/`: Comprehensive database design tasks including ER modeling and normalization proofs.
-* `Project/`: The final course project involving the full lifecycle of designing, building, and querying a massive relational database.
+| File | Description |
+|------|-------------|
+| `lab3_i243015.cs` | Lab 3 - C# database connectivity |
+| `i243015_TaimoorShaukat_lab4.cs` | Lab 4 - C# database operations |
+| `24i_3015_B_02.sql` | Lab 2 - SQL fundamentals |
+| `24I3015-LAB8.sql` | Lab 8 - Advanced SQL queries |
+| `i243015_lab9.sql` | Lab 9 - Complex joins & subqueries |
+| `i243015_TASK1_SE_B.sql` | Task 1 - SQL assignment |
+| `i243015_TASK2_SE_B.sql` | Task 2 - SQL assignment |
 
 ---
 
